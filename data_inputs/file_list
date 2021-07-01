@@ -1,0 +1,91 @@
+Top Level Folder	Acronym	Meaning
+bldgs	BASoBC	BAU Amount Spent on Building Components
+bldgs	BCEU	BAU Components Energy Use
+bldgs	BDEQ	BAU Distributed Electricity Quantities
+bldgs	BFoCSbQL	BAU Fraction of Components Sold by Quality Level
+bldgs	BRESaC	Bldg Retrofitting E Savings and Costs
+bldgs	CL	Component Lifetime
+bldgs	CpUDSC	Cost per Unit Distributed Solar Capacity
+bldgs	DSCF	Distributed Solar Capacity Factor
+bldgs	EoBSDwEC	Elasticity of Building Service Demand wrt Energy Cost
+bldgs	EoCEDwEC	Elasticity of Component Energy Demand wrt Energy Cost
+bldgs	EoCPwEU	Elasticity of Component Price wrt Energy Use
+bldgs	EoDSDwSP	Elasticity of Distributed Solar Deployment wrt Subsidy Perc
+bldgs	FoBObE	Fraction of Buildings Owned by Entity
+bldgs	ICpUEfEBE	Incremental Cost per Unit Energy for Electrified Builidng Equipment
+bldgs	MSCdtRPbQL	Market Share Changes due to Rebate Program by Quality Level
+bldgs	PCFURfE	Percentage Components Fuel Use Reduction for Electricity
+bldgs	PEUDfSbQL	Perc E Use Difference from Std by Quality Level
+bldgs	PPEIdtICEaT	Potential Percentage Eff Improvement due to Improved Contractor Edu and Training
+bldgs	PPEIdtIL	Potential Percentage Eff Improvement due to Improved Labeling
+bldgs	RBFF	Recipient Buildings Fuel Fractions
+bldgs	RPbBCT	Rebate Percentage by Building Component Type
+bldgs	SoBCaICbIC	Share of Buildings Capital and Installation Costs by ISIC Code
+bldgs	SoBRCBbG	Share of Building Retrofit Costs Borne by Government
+bldgs	SoCEUtiNTY	Share of Components Energy Use that is New This Year
+bldgs	SoDSCbRIC	Share of Distriuted Solar Costs by Recipient ISIC Code
+bldgs	SYCEU	Start Year Components Energy Use
+bldgs	SYDEC	Start Year Distributed Electricity Capacity
+dist-heat	BFoHfC	BAU Fraction of Heat from CHP
+dist-heat	BFoHPbF	BAU Fraction of Heat Provided by Fuel
+dist-heat	EoCtUH	Efficiency of Conversion to Usable Heat
+dist-heat	RHFF	Recipient Heat Fuel Fractions
+elec	ARpUIiRC	Annual Retirement per Unit Increase in Relative Cost
+elec	BCpUC	Battery Cost per Unit Capacity
+elec	BCRbQ	BAU Capacity Retirements before Quantization
+elec	BDPbES	BAU Dispatch Priority by Electricity Source
+elec	BDSBaPCF	Boolean Do Suppliers Bid at Peak Capacity Factors
+elec	BECF	BAU Expected Capacity Factors
+elec	BGCL	BAU Generation Capacity Lifetime
+elec	BGDPbES	BAU Guaranteed Dispatch Percentage by Electricity Source
+elec	BHRbEF	BAU Heat Rate by Electricity Fuel
+elec	BPaFF	Boolean Peaking and Flexibility Flags
+elec	BPHC	BAU Pumped Hydro Capacity
+elec	BPMCCS	BAU Policy Mandated Capacity Construction Schedule
+elec	BRPSPTY	BAU RPS Percentage This Year
+elec	BTaDLP	BAU Transmission and Distribution Loss Percentage
+elec	BTC	BAU Transmission Capacity
+elec	CCaMC	Capacity Construction and Maintenance Costs
+elec	DCpUC	Decommissioning Cost per Unit Capacity
+elec	DPbES	Dispatch Priority by Electricity Source
+elec	DRC	Demand Response Capacities
+elec	DRCo	Demand Response Costs
+elec	EIaE	Electricity Imports and Exports
+elec	ELF	Equipment Load Factors
+elec	EoPPFTSwFP	Elasticity of Power Plant Fuel Type Shifting wrt Fuel Price
+elec	EoTCCwTC	Elasticity of Transmission Connectivity Coefficient wrt Transmission Capacity
+elec	FoTCAMRBtPF	Fraction of Transmission Capacity Across Modeled Region Border that Provides Flexibility
+elec	FPC	Flexibility Point Calculations
+elec	FPCbS	Flexibility Points Consumed by Source
+elec	FSCaFoCC	Fuel Shifting Cost as Fraction of Construction Cost
+elec	GBSC	Grid Battery Storage Capacities
+elec	GDPbES	Guaranteed Dispatch Percentage by Electricity Source
+elec	MCGLT	Max Capacity Growth Lookup Table
+elec	MPCbS	Max Potential Capacity by Source
+elec	MPPC	Minimum Power Plant Capacity
+elec	NSDoDC	Normalized Std Dev of Dispatch Costs
+elec	NSDoNCC	Normalized Std Dev of New Capital Costs
+elec	PMCCS	Policy Mandated Capacity Construction Schedule
+elec	PTCF	Peak Time Capacity Factors
+elec	RM	Reserve Margin
+elec	RQSD	RPS-Qualifying Source Definitions
+elec	SoESCaOMCbIC	Share of Electricity Sector Capital and OM Costs by ISIC Code
+elec	SoTCCbIC	Share of Transmission Capital Costs by ISIC Code
+elec	SYC	Start Year Capacities
+elec	TCAMRB	Transmission Capacity Across Modeled Region Border
+elec	TCCpUCD	Transmission Construction Cost per Unit Capacity Distance
+elec	WUbPPT	Water Use by Power Plant Type
+fuels	BCTR	BAU Carbon Tax Rate
+fuels	BFPaT	BAU Fuel Prices and Taxes
+fuels	BFPIaE	BAU Fuel Production Imports and Exports
+fuels	BS	BAU Subsidies
+fuels	ETRbF	Export Tax Rate by Fuel
+fuels	GbPbT	GWP by Pollutant by Timeframe
+fuels	IMFPbFT	International Market Fuel Price by Fuel Type
+fuels	MPIiFE	Maximum Percentage Increase in Fuel Exports
+fuels	MPIiFI	Maximum Percentage Increase in Fuel Imports
+fuels	MPIiFP	Maximum Percentage Increase in Fuel Production
+fuels	PEI	Pollutant Emissions Intensities
+fuels	PEIIR	Pollutant Emissions Intensity Improvement Rate
+fuels	PoFDCtAE	Percentage of Fuel Demand Change that Alters Exports
+fuels	QSfE	Quantization Size for Energy
